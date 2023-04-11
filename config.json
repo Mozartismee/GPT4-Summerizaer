@@ -1,0 +1,8 @@
+
+
+{
+    "pdf_paths": {
+        "input": "data/input_pdfs/",
+        "output": "data/output_pdfs/"
+    }
+}
