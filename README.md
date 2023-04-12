@@ -1,4 +1,4 @@
-# GPT4-Summerizaer
+# GPT4-Summarizer
 
 This repository contains a simple application that aims to leverage the power of NLTK, PyPDF2, and OpenAI to process,classify, translate, and summarize PDF files using the GPT-4 model. By breaking down PDFs paragraph by paragraph, our application efficiently communicates succinct and accurate translations and summaries of each section.
 
